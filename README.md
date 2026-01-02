@@ -6,6 +6,7 @@ Headers,fetch API,axios,http server(query)
 Middlewares,app.use,express.json,bodyparser,cors
 
 #2 January 2026
+Authentication Wokflow, creating an express app,authenticated endpoints,tokens vs JWTs
 
 
 
