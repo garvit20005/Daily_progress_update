@@ -9,6 +9,7 @@ Middlewares,app.use,express.json,bodyparser,cors
 Authentication Wokflow, creating an express app,authenticated endpoints,tokens vs JWTs
 
 # January 2026
+JWT decoding,coding express app,auth middleware,frontend 
 
 
 
