@@ -12,6 +12,7 @@ Authentication Wokflow, creating an express app,authenticated endpoints,tokens v
 JWT decoding,coding express app,auth middleware,frontend 
 
 #5 january 2026
+Databases,MongoDb databases,Mongodb server,seeding data,using database in backend of a todo app,auth middleware
 
 
 
