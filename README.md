@@ -15,7 +15,7 @@ JWT decoding,coding express app,auth middleware,frontend
 Databases,MongoDb databases,Mongodb server,seeding data,using database in backend of a todo app,auth middleware
 
 #6 January 2026
-
+Hashing password,password encrytion, error handling,input validation using zod
 
 
 
