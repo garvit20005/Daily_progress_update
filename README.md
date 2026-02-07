@@ -18,5 +18,7 @@ Databases,MongoDb databases,Mongodb server,seeding data,using database in backen
 #6 January 2026
 Hashing password,password encrytion, error handling,input validation using zod
 
+#7 February 2026
+
 
 
