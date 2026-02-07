@@ -19,6 +19,10 @@ Databases,MongoDb databases,Mongodb server,seeding data,using database in backen
 Hashing password,password encrytion, error handling,input validation using zod
 
 #7 February 2026
+completed my course selling app backend
+Done basics of React
+Started basics of striver DSA sheet 
+Done 30 minutes typing practice 
 
 
 
